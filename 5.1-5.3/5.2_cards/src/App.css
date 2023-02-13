@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+ width: 27vw;
+ height: 47vh;
+ margin:2rem;
+}
+.picture{
+  margin-top:5px;
+  height: 30vh;
+  width: 25vw;
+}
+h1{
+  font-size: 1rem;
+}
+.content{
+
+  margin-left:-10rem;
+
+}
+a{
+  /* text-decoration: none; */
+  color:brown;
+  padding-left:10px;
+}
